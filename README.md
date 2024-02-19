@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Asian Seals Workshop
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://github.com/uviclibraries/asian-seals 
