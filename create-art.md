@@ -16,7 +16,7 @@ If you and your group have any questions or get stuck as you work through this e
 - Avoid using paint or ink that has a gloss to it, or a pencil, as the light of the scanner or in the room will cause reflections, and those will become distortions in the design. Matte black ink is best.
 - Make the artwork larger than the actual size you want your seal or stamp to be, which will make it easier to work with and get clean lines. You can shrink it down to ideal size after the design is digitized. (We created a one-inch stamp using artwork that originally covered a letter-sized sheet of paper.)
 
- ADD LINKS TO SEAL ART RESOURCES                                                                                                                
+ ADD LINKS AND PHOTO IDEAS FOR SEAL ART RESOURCES                                                                                                                
                                                                                                                       
                                                                                                                       
 <img src="images/tinkercad-keychain-02b.png" style="float:right;width:200px" alt="drop down menu with basic shapes, text and numbers."> 
