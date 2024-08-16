@@ -8,35 +8,35 @@ parent: Workshop Activities
 
 If you and your group have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.  Have fun!
 
-# Clean up and/or Simplify artwork
-
-1. If the trace has resulted in an image with far too many details and/or nodes, you can go to the top menu and **click on Path** and then **Simplify**. This will further smooth out the outline of your image. If this process gets rid of too many details, you can undo it. 
-2. You can alternatively clean up the excess nodes manually, which gives you more control over the process.
+1. Clean up and/or Simplify artwork
+- If the trace has resulted in an image with far too many details and/or nodes, you can go to the top menu and **click on Path** and then **Simplify**. This will further smooth out the outline of your image. If this process gets rid of too many details, you can undo it. 
+- You can alternatively clean up the excess nodes manually, which gives you more control over the process.
 - Click on the **Edit Path by Nodes tool** in the left toolbar and then click on your artwork. You should see all the little nodes (small squares along the outlines) in your artwork.
 - **Click on the nodes** individually to select and then press the **Delete key** on your keyboard.
 - You can also **drag the mouse** to select several at a time and **Delete** them. 
-3. Deleting some nodes may change the shape of your design in that area. If you click on nearby nodes, they will usually have little arms with round handles.
+- Deleting some nodes may change the shape of your design in that area. If you click on nearby nodes, they will usually have little arms with round handles.
 - **Click and drag** on one of these circle handles to modify that segment of the artwork. (use gif to show them being extended and shifted to another direction)
 
-Note: leaving some imperfections is a good idea to mimic the natural look of a hand-engraved seal.
 
-# Separating elements:
+- Note: leaving some imperfections is a good idea to mimic the natural look of a hand-engraved seal.
 
-4. If some elements of your artwork got joined in the tracing process and you would like to separate them by **selecting the eraser tool**
-5. Make sure that **“Cut out from path and shapes”** and **“Break apart cut items”** are selected. You can also adjust the width of the eraser as well as other settings at this stage. 
-6. **Cut through the desired area**, this will likely create a rough edge. If desired, use the simplify tool over the newly separated area or adjust the nodes manually. 
+2. Separating elements:
 
-# Connecting elements:
+- If some elements of your artwork got joined in the tracing process and you would like to separate them by **selecting the eraser tool**
+- Make sure that **“Cut out from path and shapes”** and **“Break apart cut items”** are selected. You can also adjust the width of the eraser as well as other settings at this stage. 
+- **Cut through the desired area**, this will likely create a rough edge. If desired, use the simplify tool over the newly separated area or adjust the nodes manually. 
 
-7. If elements of your artwork are separated and you would like them to touch:
+3. Connecting elements:
+
+- If elements of your artwork are separated and you would like them to touch:
 - **Adjust the nodes manually** by right-clicking the necessary nodes and moving them to join the desired area. 
 **OR**
 - Use the **“freehand draw lines”** tools and draw the necessary connections manually. If desired,  use the simplify tool over the newly drawn area.  
 
-# Clean up the digital art:
+4. Clean up the digital art:
 
-8. **Save** before continuing to make sure you don’t lose the progress in your work.
-10. Click File, then Save As… to save your file. Rename if desired.
+- **Save** before continuing to make sure you don’t lose the progress in your work.
+- Click File, then Save As… to save your file. Rename if desired.
 
 **UPDATE**
 [NEXT STEP: Digitize Your Art](digitize-art.html){: .btn .btn-blue }
