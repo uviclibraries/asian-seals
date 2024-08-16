@@ -17,9 +17,10 @@ If you and your group have any questions or get stuck as you work through this e
  - Shift + mouse scroll wheel moves the page side to side
  - Ctrl + mouse scroll wheel zooms in and out
  - Holding down the mouse scroll wheel drags the page around
+ <img src="images/14.family.jpg" style="width:200px;float:right;" alt="">
 
 3. Find the image you would like to engrave 
- - You can use the character for family as an example <img src="images/14.family.jpg" style="width:200px;float:right;" alt="">, or choose your own line art photo from one of the websites below: 
+ - You can use the character for family as an example, or choose your own line art photo from one of the websites below: 
      - [Vectorstock: full colour clip art](https://www.vectorstock.com/){:target="_blank"} 
      - [The noun project: free icon clip art](https://thenounproject.com/){:target="_blank"} 
      - [Biorender: biology clip art](https://biorender.com/){:target="_blank"} 
