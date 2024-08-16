@@ -21,11 +21,7 @@ If you and your group have any questions or get stuck as you work through this e
 
 ### Working in Inkscape
 
- ADD LINKS AND PHOTO IDEAS FOR SEAL ART RESOURCES                                                                                                                
-                                                                                                                      
-                                                                                                                      
-<img src="images/tinkercad-keychain-02b.png" style="float:right;width:200px" alt="drop down menu with basic shapes, text and numbers."> 
-
+ ADD LINKS AND PHOTO IDEAS FOR SEAL ART RESOURCES                                                                                                                                                                     
 
 **UPDATE**
 [NEXT STEP: Digitize Your Art](digitize-art.html){: .btn .btn-blue }
