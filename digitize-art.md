@@ -17,16 +17,7 @@ If you and your group have any questions or get stuck as you work through this e
 2. Using a Scanner <img src="images/11.scanner.jpg" style="width:200px;float:right;" alt="">
 - Place your paper on the scanner bed.
 - Follow the scanner instructions to scan. 
-- Transfer your image to the computer where you will be using Inkscape if it is not the same computer. <img src="images/12.scanning_zone.png" style="width:200px;float:right;" alt="">
-
-### Working in Inkscape
-
-1. **Open the file in Inkscape**
-- Click **File**, then **New** to start with a blank Inkscape document.
-- Click **File**, then **Import**
-- Find the file that you downloaded and **click Open**.
-- A box may pop-up asking about import settings. The default settings are fine, **click OK**. 
-- The image may be very large. If it needs to be scaled down then click on the image and **use the arrows to change its size**. If you hold ctrl while reducing its size then the height to width ratio will remain locked.                                                                                                                                                              
+- Transfer your image to the computer where you will be using Inkscape if it is not the same computer. <img src="images/12.scanning_zone.png" style="width:200px;float:right;" alt="">                                              
 
 **UPDATE**
 [NEXT STEP: Digitize Your Art](digitize-art.html){: .btn .btn-blue }
