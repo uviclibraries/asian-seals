@@ -42,7 +42,7 @@ If you and your group have any questions or get stuck as you work through this e
   
  - The Trace Bitmap function creates an object without a stroke whose fill is black. This is ideal for laser engraving and requires no further modifications. Delete the original picture. <img src="images/3.result.png" style="width:200px;float:right;" alt="">
 
-    <img src="images/4.nodes.png" style="width:50px;float:right;" alt="">
+    <img src="images/4.nodes.png" style="width:50px;float;" alt="">
 
 5. Save
  - Click File, then Save As… to save your file. Inkscape’s native file format is .svg which is suitable for laser cutting. 
