@@ -10,7 +10,7 @@ nav_order: 10
 - The Culture and Evolution of Japanese Seals
 - The exhibition “Mongol seals” opened in the National Museum
 - Getting Custom Japanese Seals at Kamakura Hanko 
-- BiblioAsia (https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals/) [https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals/](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals/){:target="_blank"}
+- BiblioAsia (BiblioAsia) [https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals/](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals/){:target="_blank"}
 
 
 ## Acknowledgements
