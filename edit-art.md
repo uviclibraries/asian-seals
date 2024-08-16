@@ -19,8 +19,7 @@ If you and your group have any questions or get stuck as you work through this e
  - Holding down the mouse scroll wheel drags the page around
 
 3. Find the image you would like to engrave 
- - You can use the cartoon cat image example, or choose your own line art photo from one of the websites below:
- - A cute cartoon cat can be found from pixabay: [pixabay.com/illustrations/cat-cute-kitten-ball-wool-pet-4475583/](https://pixabay.com/illustrations/cat-cute-kitten-ball-wool-pet-4475583/){:target="_blank"} .  
+ - You can use the character for family as an example <img src="images/14.family.jpg" style="width:200px;float:right;" alt="">, or choose your own line art photo from one of the websites below: 
      - [Vectorstock: full colour clip art](https://www.vectorstock.com/){:target="_blank"} 
      - [The noun project: free icon clip art](https://thenounproject.com/){:target="_blank"} 
      - [Biorender: biology clip art](https://biorender.com/){:target="_blank"} 
