@@ -5,7 +5,7 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## WORKSHOP NAME HERE Resources
+## Asian Seals Resources
 
 - [The Culture and Evolution of Japanese Seals](https://www.youtube.com/watch?v=PUjRV_8NHDw){:target="_blank"}
 - [The exhibition “Mongol seals” opened in the National Museum](https://www.youtube.com/watch?v=OTTxNpao-MA){:target="_blank"}
