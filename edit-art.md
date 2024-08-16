@@ -18,7 +18,7 @@ If you and your group have any questions or get stuck as you work through this e
  - Ctrl + mouse scroll wheel zooms in and out
  - Holding down the mouse scroll wheel drags the page around
 
-3. Find the image you would like to engrave <img src="images/act3/lasercat.png" style="width:200px; float:right;" alt="objects">
+3. Find the image you would like to engrave 
  - You can use the cartoon cat image example, or choose your own line art photo from one of the websites below:
  - A cute cartoon cat can be found from pixabay: [pixabay.com/illustrations/cat-cute-kitten-ball-wool-pet-4475583/](https://pixabay.com/illustrations/cat-cute-kitten-ball-wool-pet-4475583/){:target="_blank"} .  
      - [Vectorstock: full colour clip art](https://www.vectorstock.com/){:target="_blank"} 
