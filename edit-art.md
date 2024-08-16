@@ -27,7 +27,7 @@ If you and your group have any questions or get stuck as you work through this e
  - Click on **Free Download** and then choose one of the PNG formats.
  - If you would like to find your own image to engrave, keep in mind that it needs to be high-contrast and free of copyright. For the sake of this exercise choose a **PNG or JPEG** format even though there are plenty of free vector graphic (svg) images out there. 
 
-4. Modify the image in Inkscape <img src="images/15.import_set.pngG" style="width:300px; float:right;" alt="import">
+4. Modify the image in Inkscape <img src="images/15.import_set.png" style="width:200px; float:right;" alt="import">
  - Click **File**, then Import
  - Find the file that you downloaded and **click Open**.
  - A box may pop-up asking about import settings. The default settings are fine, **click OK**. 
