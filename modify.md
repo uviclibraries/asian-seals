@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3-Modifying your Vector File
-nav_order: 5
+title: 4-Modifying your Vector File
+nav_order: 6
 parent: Workshop Activities
 ---
 # Making Adjustments to your Vector File
