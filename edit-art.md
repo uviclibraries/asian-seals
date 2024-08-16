@@ -37,10 +37,10 @@ If you and your group have any questions or get stuck as you work through this e
  - Click on **Update** and then OK. You can now exit out of the Trace Bitmap window. You may need to close the dialogue box by doing the following: 
       - **Mac:** Click on the red button in the top left corner of the dialogue box 
       - **Windows:** Click on the red X button in the top right corner of the dialogue box
- - The new vector graphic has been placed directly on top of the old one. Move the new graphic to a free space on the canvas.<img src="images/act3/act3-bitmap2.PNG" style="width:300px;" alt="original vs vector">
+ - The new vector graphic has been placed directly on top of the old one. Move the new graphic to a free space on the canvas.<img src="images/2.live_update.png" style="width:200px;float:right;" alt="">
  - Try zooming in to look at both images closely. The newly created image is a vector graphic so the lines always stay crisp while zooming in.<br>
-    <img src="images/act3/act3-eye1.PNG" style="width:150px;" alt="png eye"> 
-    <img src="images/act3/act3-eye2.PNG" style="width:145px;" alt="vector eye"><br>
+    <img src="images/3.result.png" style="width:200px;float:right;" alt=""> 
+    <img src="images/4.nodes.png" style="width:200px;float:right;" alt=""">
  - The Trace Bitmap function creates an object without a stroke whose fill is black. This is ideal for laser engraving and requires no further modifications. Delete the original picture. 
 
 5. Save
