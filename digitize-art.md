@@ -21,7 +21,12 @@ If you and your group have any questions or get stuck as you work through this e
 
 ### Working in Inkscape
 
- ADD LINKS AND PHOTO IDEAS FOR SEAL ART RESOURCES                                                                                                                                                                     
+1. **Open the file in Inkscape**
+- Click **File**, then **New** to start with a blank Inkscape document.
+- Click **File**, then **Import**
+- Find the file that you downloaded and **click Open**.
+- A box may pop-up asking about import settings. The default settings are fine, **click OK**. 
+- The image may be very large. If it needs to be scaled down then click on the image and **use the arrows to change its size**. If you hold ctrl while reducing its size then the height to width ratio will remain locked.                                                                                                                                                              
 
 **UPDATE**
 [NEXT STEP: Digitize Your Art](digitize-art.html){: .btn .btn-blue }
