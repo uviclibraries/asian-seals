@@ -32,7 +32,7 @@ If you and your group have any questions or get stuck as you work through this e
  - Find the file that you downloaded and click Open.
  - A box may pop-up asking about import settings. The default settings are fine, click OK. 
  - If the image is too large to see the whole thing, then click on the image and use the arrows to change its size. If you hold **ctrl** while reducing its size then the height to width ratio will remain locked. 
- - With the image still selected, click on the Path menu, then **Trace Bitmap**.<br><img src="images/1.bitmap.png" style="width:200px;" alt="Trace bitmap"><br>
+ - With the image still selected, click on the Path menu, then **Trace Bitmap**.<img src="images/1.bitmap.png" style="width:200px;" alt="Trace bitmap">
  - Click on the **Update** button or select **Live Preview**. Now you should be able to see a preview of your image. Currently, we’re using the Brightness cutoff mode. Changing the Threshold value will change the amount of brightness needed in order to be converted to the new vector graphic. Try moving the Threshold between 0 to 1 and click on the Update button each time to see the image change until you are satisfied with the preview.
  - Click on **Update** and then OK. You can now exit out of the Trace Bitmap window. You may need to close the dialogue box by doing the following: 
       - **Mac:** Click on the red button in the top left corner of the dialogue box 
