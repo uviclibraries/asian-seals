@@ -19,9 +19,5 @@ If you and your group have any questions or get stuck as you work through this e
 
  ADD LINKS AND PHOTO IDEAS FOR SEAL ART RESOURCES                                                                                                                
                                                                                                                       
-                                                                                                                      
-
-
-
-**UPDATE**
+                                                                                                                     
 [NEXT STEP: Digitize Your Art](digitize-art.html){: .btn .btn-blue }
