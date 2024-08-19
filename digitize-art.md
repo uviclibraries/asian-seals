@@ -20,4 +20,4 @@ If you and your group have any questions or get stuck as you work through this e
 - Transfer your image to the computer where you will be using Inkscape if it is not the same computer. <img src="images/12.scanning_zone.png" style="width:200px;float:right;" alt="">                                              
 
 **UPDATE**
-[NEXT STEP: Digitize Your Art](digitize-art.html){: .btn .btn-blue }
+[NEXT STEP: Convert Image to Vector](edit-art.html){: .btn .btn-blue }
