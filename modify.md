@@ -25,7 +25,7 @@ If you and your group have any questions or get stuck as you work through this e
 - If some elements of your artwork got joined in the tracing process and you would like to separate them by **selecting the eraser tool** <img src="images/8.detail.png" style="width:200px;float:right;" alt="">
 - Make sure that **“Cut out from path and shapes”** and **“Break apart cut items”** are selected. You can also adjust the width of the eraser as well as other settings at this stage. 
 - **Cut through the desired area**, this will likely create a rough edge. If desired, use the simplify tool over the newly separated area or adjust the nodes manually.
-<img src="images/9.cut_instructions.png" style="width:300px;float;" alt="">
+<img src="images/9.cut_instructions.png" style="width:300px;float;" alt="1. Select the eraser tool. 2. Make sure Cut out from path and shapes and Break apart cut items are selected. 3. Cut through the desired area.">
 
 3. Connecting elements:
 
