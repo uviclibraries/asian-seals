@@ -39,5 +39,4 @@ If you and your group have any questions or get stuck as you work through this e
 - **Save** before continuing to make sure you don’t lose the progress in your work.
 - Click File, then Save As… to save your file. Rename if desired.
 
-**UPDATE**
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
