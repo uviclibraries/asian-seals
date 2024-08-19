@@ -14,7 +14,7 @@ If you and your group have any questions or get stuck as you work through this e
 - Click on the **Edit Path by Nodes tool** in the left toolbar and then click on your artwork. You should see all the little nodes (small squares along the outlines) in your artwork.
 - **Click on the nodes** individually to select and then press the **Delete key** on your keyboard.
 - You can also **drag the mouse** to select several at a time and **Delete** them. 
-- Deleting some nodes may change the shape of your design in that area. If you click on nearby nodes, they will usually have little arms with round handles. <img src="images/6.change.png" style="width:100px;float:right;" alt="">
+- Deleting some nodes may change the shape of your design in that area. If you click on nearby nodes, they will usually have little arms with round handles. <img src="images/6.change.png" style="width:150px;float:right;" alt="">
 - **Click and drag** on one of these circle handles to modify that segment of the artwork. (use gif to show them being extended and shifted to another direction) <img src="images/7.2versions.png" style="width:200px;float:right;" alt="">
 
 
