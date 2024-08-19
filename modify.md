@@ -40,4 +40,4 @@ If you and your group have any questions or get stuck as you work through this e
 - Click File, then Save As… to save your file. Rename if desired.
 
 **UPDATE**
-[NEXT STEP: Digitize Your Art](digitize-art.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
