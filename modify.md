@@ -34,7 +34,12 @@ If you and your group have any questions or get stuck as you work through this e
 **OR**
 - Use the **“freehand draw lines”** tools and draw the necessary connections manually. If desired,  use the simplify tool over the newly drawn area.  
 
-4. Clean up the digital art:
+4. Finalize your file for laser cutting
+- Seals, like other types of stamps, need to be made using a mirrored design to ensure the correct orientation appears once the ink is applied. To mirror the design in Inkscape:  
+- **Make sure all elements of your design are selected**.
+
+<img src="images/16.mirror2.png" style="float;width:200px;" alt=""> 
+- **Click** on **Object Flip Horizontal**. This will flip your design horizontally and is now ready to laser cut. 
 
 - **Save** before continuing to make sure you don’t lose the progress in your work.
 - Click File, then Save As… to save your file. Rename if desired.
