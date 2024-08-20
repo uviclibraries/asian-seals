@@ -12,4 +12,4 @@ parent: Workshop Activities
   - **Click** on **Object Flip Horizontal**. This will flip your design horizontally and is now ready to laser cut. 
   - Save your design and submit it for laser cutting. 
 
-[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
