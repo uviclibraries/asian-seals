@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Convert a Graphic to Vector with Inkscape
+title: 3-Converting a Graphic to Vector with Inkscape
 nav_order: 5
 parent: Workshop Activities
 ---
