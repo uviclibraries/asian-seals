@@ -42,7 +42,14 @@ If you and your group have any questions or get stuck as you work through this e
   
  - The Trace Bitmap function creates an object without a stroke whose fill is black. This is ideal for laser engraving and requires no further modifications. Delete the original picture.
 
-5. Save
+5. Finalize your file for laser cutting
+- Seals, like other types of stamps, need to be made using a mirrored design to ensure the correct orientation appears once the ink is applied. To mirror the design in Inkscape:  
+- **Make sure all elements of your design are selected**.
+
+<img src="images/16.mirror2.png" style="float;width:200px;" alt=""> 
+- **Click** on **Object Flip Horizontal**. This will flip your design horizontally and is now ready to laser cut. 
+
+6. Save
  - Click File, then Save As… to save your file. Inkscape’s native file format is .svg which is suitable for laser cutting. 
 
 
