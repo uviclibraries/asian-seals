@@ -36,14 +36,14 @@ If you and your group have any questions or get stuck as you work through this e
 
 4. Finalize your file for laser cutting
 - Let's add a cut line around your design, so that the laser knows where to cut your seal.
--  Click on the **create rectangles and squares**<img src="images/act2/act2-02.png" style="width:20px;" alt="square"> icon from the left side toolbar  
- - Click and drag somewhere on the canvas to create a rectangle. In the top left corner there’s a toolbar that looks like this: <br> <img src="images/act2/act2-03.png" style="width:400px;" alt="menu">
+-  Click on the **create rectangles and squares**<img src="images/act2-02.png" style="width:20px;" alt="square"> icon from the left side toolbar  
+ - Click and drag somewhere on the canvas to create a rectangle. In the top left corner there’s a toolbar that looks like this: <br> <img src="images/act2-03.png" style="width:400px;" alt="menu">
  - Make sure the units are in **mm**.
  - Change the width (W) and height (H) to **20**.  You should now have a 35mm x 35mm square shape.
  - Change the x-radius (Rx) and y-radius (Ry) to **1**.  This determines how rounded the corners of your square are.
  -  - Click on the **Object** drop-down menu and select **Fill and Stroke**. A tool on the right side of the screen should pop-up.  
- - In the **Fill** tab, change the fill from Flat colour to No paint<img src="images/act2/act2-07.png" style="width:20px;" alt="objects">.
- - Click over to the **Stroke paint** tab. Select **Flat colour**. The vector cutting colour is a specific red in the laser software. In the RGB colour selection, Change the red (R) value to 255 and change the green (G) and blue (B) values to 0. <img src="images/act2/act2-08.png" style="width:300px; float:right;" alt="objects">
+ - In the **Fill** tab, change the fill from Flat colour to No paint<img src="images/act2-07.png" style="width:20px;" alt="objects">.
+ - Click over to the **Stroke paint** tab. Select **Flat colour**. The vector cutting colour is a specific red in the laser software. In the RGB colour selection, Change the red (R) value to 255 and change the green (G) and blue (B) values to 0. <img src="images/act2-08.png" style="width:300px; float:right;" alt="objects">
  - Click over to the **Stroke style** tab. Change the Width to 0.1 mm. This is to ensure the line is thin enough to show up as a vector line in the laser software. Sometimes if lines are too thick then they’re interpreted as raster objects.
 
 - Seals, like other types of stamps, need to be made using a mirrored design to ensure the correct orientation appears once the ink is applied. To mirror the design in Inkscape:  
