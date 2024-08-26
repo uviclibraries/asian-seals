@@ -16,6 +16,9 @@ This workshop is primarily hands-on practice with **Inkscape or Photopea** in or
 - [Vector vs Raster Graphics](https://www.youtube.com/watch?v=p2thSkOa_Xg&ab_channel=BuddyMedia){:target="_blank"} (3 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p2thSkOa_Xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- [Why we still need 7 kinds of hanko seals/stamps in Japan!](https://www.youtube.com/watch?v=9SqEj5nV_Ek){:target="_blank"} (9 min (0:00-9:12))<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2thSkOa_Xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - OPTIONAL: [10 projects for the laser cutter](https://www.youtube.com/watch?v=vHgqBYTj67U&ab_channel=WayofWood){:target="_blank"} (5 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vHgqBYTj67U" title="10 projects for the laser cutter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
