@@ -14,23 +14,21 @@ nav_order: 1
 
 ## Why learn about Asian seals? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+Seals have been used for centuries in many parts of the world but have gained popularity and even become necessities around multiple areas of Asia. Today, seals are still used in several countries and can hold the same legal power as a signature. Master caligraphers and seal carvers traditionally created these functional pieces of art by hands in different materials such as stone and hard woods. Today, only a few of these Masters remain, but technology, while never replacing the artists and their work, can make this art more accessible to more people. 
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
-
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
+## What tools do we use?
+- Inkscape is a free and open source design tool for making and editing vector graphics. Inkscape uses the standardized SVG file format as its main format, which is supported by many other applications including web browsers.
+- Another design tool is Photopea, a free online image editor. You can export designs in several formats including .SVG.
+- This workshop is not an endorsement of Inkscape or Photopea; there are many options for 2D design and other software may be better for different contexts or preferences.
 
 ## Learning objectives - UPDATE FOR THE NEW TOOL
 
 At the end of this workshop, you will be able to:
-
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+Explain what a seal is and their function
+Explain which materials are best for traditional and technology-made seals
+Select appropriate 2D or 3D design software for laser applications
+Digitize hand-drawn designs and importing them in the appropriate software for laser cutting
+Create and modify 2D designs for engraving
+Export designs to .svg file format
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
