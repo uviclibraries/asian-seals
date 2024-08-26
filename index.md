@@ -21,7 +21,7 @@ Seals have been used for centuries in many parts of the world but have gained po
 - Another design tool is Photopea, a free online image editor. You can export designs in several formats including .SVG.
 - This workshop is not an endorsement of Inkscape or Photopea; there are many options for 2D design and other software may be better for different contexts or preferences.
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 1. Explain what a seal is and their function
