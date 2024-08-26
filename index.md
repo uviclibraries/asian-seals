@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/17.seals_intro.png" style="float:right;width:180px;" alt="image of laser cut seals and printed seals in reed ink">
 
 # Asian Seals
 
