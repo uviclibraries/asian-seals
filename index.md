@@ -3,8 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
-<img src="images/17.seals_intro.jpg" style="float:right;width:180px;" alt="image of laser cut seals and printed seals in reed ink">
+<img src="images/17.seals_intro.jpg" style="float:right;width:200px;" alt="image of laser cut seals and printed seals in reed ink">
 
 # Asian Seals
 
