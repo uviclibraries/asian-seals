@@ -24,11 +24,11 @@ Seals have been used for centuries in many parts of the world but have gained po
 ## Learning objectives - UPDATE FOR THE NEW TOOL
 
 At the end of this workshop, you will be able to:
-Explain what a seal is and their function
-Explain which materials are best for traditional and technology-made seals
-Select appropriate 2D or 3D design software for laser applications
-Digitize hand-drawn designs and importing them in the appropriate software for laser cutting
-Create and modify 2D designs for engraving
-Export designs to .svg file format
+1. Explain what a seal is and their function
+2. Explain which materials are best for traditional and technology-made seals
+3. Select appropriate 2D or 3D design software for laser applications
+4. Digitize hand-drawn designs and importing them in the appropriate software for laser cutting
+5. Create and modify 2D designs for engraving
+6. Export designs to .svg file format
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
