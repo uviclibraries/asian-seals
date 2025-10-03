@@ -10,7 +10,7 @@ If you and your group have any questions or get stuck as you work through this e
 
 1. Notes about creating your artwork:
 - You can hand-write or draw your script or art on paper using brush or pen and ink on paper, or start with a digital design.
-- If you are looking for a seal script variations resource, check out the following resources for ideas: [dullr.com](http://www.dullr.com){:target="_blank"}.
+- If you are looking for a seal script variations resource, check out the following resource for ideas: [sf.zdic.net](https://sf.zdic.net/){:target="_blank"}.
 - Note that digitally created seal script fonts will usually be very tidy and sharp, missing the slight stroke variation that comes from handwritten or hand-carved calligraphy, so if you want a more natural look, you can use the website as a guide and write out the script on paper by hand or even print out the digital script and create variation using a pen or brush and ink.
  <img src="images/10.sharpie.jpg" style="width:250px;float:right;" alt="character for family in mandarin, 家, jia, written in large font with a sharpie">
 - It is recommended that the art is solid black on a white background with no shading, for greatest contrast, which makes it easier to convert to vector. 
