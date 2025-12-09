@@ -20,7 +20,7 @@ If you and your group have any questions or get stuck as you work through this e
  <img src="images/14.family.jpg" style="width:200px;float:right;" alt="家, jia, character">
 
 3. Find the image you would like to engrave 
- - You can use the character for family as an example, or choose your own line art photo from one of the websites below: 
+ - You can use the character for family as an example, use the image you scanned in the previous activity, or choose your own line art photo from one of the websites below: 
      - [Vectorstock: full colour clip art](https://www.vectorstock.com/){:target="_blank"} 
      - [The noun project: free icon clip art](https://thenounproject.com/){:target="_blank"} 
      - [Biorender: biology clip art](https://biorender.com/){:target="_blank"} 
