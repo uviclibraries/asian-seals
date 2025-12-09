@@ -44,7 +44,7 @@ If you and your group have any questions or get stuck as you work through this e
  -  - Click on the **Object** drop-down menu and select **Fill and Stroke**. A tool on the right side of the screen should pop-up.  
  - In the **Fill** tab, change the fill from Flat colour to No paint<img src="images/act2-07.png" style="width:20px;" alt="objects">.
  - Click over to the **Stroke paint** tab. Select **Flat colour**. The vector cutting colour is a specific red in the laser software. In the RGB colour selection, Change the red (R) value to 255 and change the green (G) and blue (B) values to 0. <img src="images/act2-08.png" style="width:300px; float:right;" alt="objects">
- - Click over to the **Stroke style** tab. Change the Width to 0.1 mm. This is to ensure the line is thin enough to show up as a vector line in the laser software. Sometimes if lines are too thick then they’re interpreted as raster objects.
+ - Click over to the **Stroke style** tab. Change the Width to 0.1 mm. This is to ensure the line is thin enough to show up as a vector line in the laser software. Sometimes if lines are too thick then they’re interpreted as raster objects.  <img src="images/21.stroke.png" style="width:200px;float:right;" alt="seal art with stroke line around it">
 
 5. Mirror your design
 - Seals, like other types of stamps, need to be made using a mirrored design to ensure the correct orientation appears once the ink is applied. To mirror the design in Inkscape:  
