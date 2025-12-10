@@ -1,6 +1,6 @@
 ---
 layout: default
-title:5-Requesting a Seal
+title: 5-Requesting a Seal
 nav_order: 7
 parent: Workshop Activities
 ---
