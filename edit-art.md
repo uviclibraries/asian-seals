@@ -41,14 +41,13 @@ If you and your group have any questions or get stuck as you work through this e
  - Try zooming in to look at both images closely. The newly created image is a vector graphic so the lines always stay crisp while zooming in.
   
  - The Trace Bitmap function creates an object without a stroke whose fill is black. This is ideal for laser engraving and requires no further modifications. Delete the original picture.
-
+<img src="images/24.outline.png" style="width:300px; float:right;" alt="import">
 5. If you used Chinese character fonts to create your seal art you will need to create outlines around the text:
  - Click on the text to select it
  - In the top menu, click on the Path dropdown menu and select **Object to Path** to convert the text to an editable vector object
-<img src="images/24.outline.png" style="width:200px; float:right;" alt="import">
  - Repeat with any individual text objects in your design. This will allow you to do fine edits and adjustments to your design and ensure the font will not change when the design is sent to another computer that doesn't have the font installed.
  - After this, you can select the Node Tool from the left menu and can follow along with the next activity to fine tune your vector design.
-   <img src="images/25.nodetool.png" style="width:200px; float:right;" alt="import">
+   <img src="images/25.nodetool.png" style="width:300px; float:right;" alt="import">
 7. Save
  - Click File, then Save As… to save your file. Inkscape’s native file format is .svg which is suitable for laser cutting. 
 
