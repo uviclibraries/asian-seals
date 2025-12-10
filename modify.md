@@ -56,7 +56,5 @@ If you and your group have any questions or get stuck as you work through this e
 - **Save** before continuing to make sure you don’t lose the progress in your work.
 - Click File, then Save As… to save your file. Rename if desired.
 
-6. Get your seal laser cut
-- Wood choice influences the durability of your seal. A soft wood, such as plywood, works well for seals that you don't plan on using for a very long time since the design will start to deteriorate. A hard wood, such as solid maple, will hold up for much longer and therefore is a better choice to ensure longevity. 
 
 [NEXT STEP: Requesting a Laser Cut Seal with a 3D Printed Handle](request.html){: .btn .btn-blue }
