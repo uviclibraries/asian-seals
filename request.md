@@ -4,7 +4,7 @@ title: 5-Requesting a Seal
 nav_order: 7
 parent: Workshop Activities
 ---
-<img src="images/22.form.png" style="width:450px;float:right;" alt="screenshot of lasercutting form">
+<img src="images/22.form.png" style="width:500px;float:right;" alt="screenshot of lasercutting form">
 # Requesting a Laser Cut Seal with a 3D Printed Handle
 If you and your group have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.  Have fun!
 
@@ -17,7 +17,7 @@ If you and your group have any questions or get stuck as you work through this e
 
 - If you want a 3D printed handle, we have uploaded some that are ready to print at various sizes on [Makerworld.com](https://makerworld.com/en/models/2100956-3d-printed-handles-for-asian-seals){:target="_blank"}.
 - Click on the drop-down to select the option to **Download STL/CAD files** and this will download a zip file of all the sizing options.
-<img src="images/23.download.png" style="width:400px;float;" alt="makerworld download page">
+<img src="images/23.download.png" style="width:450px;float;" alt="makerworld download page">
 
 3. Submit a 3D printing request:
 
