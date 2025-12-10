@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6-Bonus: From Yin to Yang
+title: 6- Bonus- From Yin to Yang
 nav_order: 8
 parent: Workshop Activities
 ---
