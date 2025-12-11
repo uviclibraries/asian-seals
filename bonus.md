@@ -17,7 +17,7 @@ The initial stages of the activities if left as-is would result in a design that
 - <img src="images/28.difference2.png" style="float;width:200px;" alt="Difference in the Menu"> 
 - Click on the completed shape to select it, and then click on the colour black in the bottom colour bar to turn the shape black.
 - If you already have a red stroke line in your design from the previous activity, you can just align the shapes to your liking. Remember that any white area of the design will be raised and inked. 
-<img src="images/29finalyang.png" style="width:200px;float:right;" alt="seal art with stroke line around it">
+<img src="images/29.finalyang.png" style="width:200px;float:right;" alt="seal art with stroke line around it">
 2. If you need a cut line: Adding a cut line for your seal
 - Let's add a cut line around your design, so that the laser knows where to cut your seal.
 -  Click on the **create rectangles and squares**<img src="images/act2-02.png" style="width:20px;" alt="square"> icon from the left side toolbar  
