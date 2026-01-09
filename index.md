@@ -4,13 +4,13 @@ title: Introduction
 nav_order: 1
 ---
 
-# Asian Seals
+# Impressions without Carving 2: East Asian Seal Art and Modern Technology
 <img src="images/17.seals_intro.jpg" style="float:right;width:250px;" alt="image of laser cut seals and printed seals in reed ink">
 - Pre-workshop activities: 15 min 
 - Introductory presentation: 10 min
 - Hands-on activities: 40-60 min
 
-## Why learn about Asian seals? 
+## Why learn about seal art? 
 
 Seals have been used for centuries in many parts of the world but have gained popularity and even become necessities around multiple areas of Asia. Today, seals are still used in several countries and can hold the same legal power as a signature. Master caligraphers and seal carvers traditionally created these functional pieces of art by hands in different materials such as stone and hard woods. Today, only a few of these Masters remain, but technology, while never replacing the artists and their work, can make this art more accessible to more people. 
 
