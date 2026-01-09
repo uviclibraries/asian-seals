@@ -11,6 +11,7 @@ nav_order: 10
 - [The exhibition “Mongol seals” opened in the National Museum](https://www.youtube.com/watch?v=OTTxNpao-MA){:target="_blank"}
 - [Getting Custom Japanese Seals at Kamakura Hanko](https://www.youtube.com/watch?v=owN2mIgM370){:target="_blank"}
 - [BiblioAsia](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals/){:target="_blank"}
+- Hamonshū, three volumes of traditional Japanese wave designs by Mori Yuzan on the Internet Archive: [Volume 1,](https://archive.org/details/hamonshuyv1mori){:target="_blank"}[Volume 2,](https://archive.org/details/hamonshuy00mori){:target="_blank"}[Volume 3](https://archive.org/details/hamonshuyv3mori){:target="_blank"}
 
 
 ## Acknowledgements
