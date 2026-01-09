@@ -31,4 +31,4 @@ Note for Alumni and Community Users: How to Request Laser Cutting and 3D Printin
 - Once we receive that receipt, we will add your project to our queue and then email you when it's ready to pick up.
 
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Bonus: From Yin to Yang](bonus.html){: .btn .btn-blue }
