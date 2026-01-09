@@ -1,4 +1,4 @@
-# Asian Seals Workshop
+# Impressions without Carving 2: East Asian Seal Art and Modern Technology
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/asian-seals/ 
