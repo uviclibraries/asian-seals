@@ -1,16 +1,15 @@
 ---
 layout: default
-title: 6- Bonus- From Yin to Yang
+title: 6-Bonus- From Yin to Yang
 nav_order: 8
 parent: Workshop Activities
 ---
 # Bonus: Change your design from Yin to Yang design <img src="images/yinyang.png" style="width:250px;float:right;" alt="yin and yang seal examples">
 
 The initial stages of the activities if left as-is would result in a design that is engraved out of the surface (Yin) with the black part of the design burned away from the wood and the white part of the background left raised to be inked. This activity will teach you how you reverse the artwork so that the design itself will be left as a raised surface (Yang) and the area around it will be burned away. If you and your group have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.  Have fun!
-<img src="images/26.rectangletool.png" style="float;width:200px;" alt="rectangle menu item"> 
 1. Open your design from the end of Activity 4
 - Select either the Rectangle Tool or the Ellipse/Arc tool from the right side menu and make a solid shape behind your design.
-- You may need to open the Layers and Objects tab to move the shape to the bottom of the design <img src="images/27.layerandobjects.png" style="float;width:200px;" alt="layers and objects"> 
+- You may need to open the Layers and Objects tab to move the shape to the bottom of the design.
 - Select one of your design elements and the new shape you just created and then go to the Path menu in the top bar menu and click on Difference. 
 <img src="images/28.difference.png" style="float;width:200px;" alt="Difference in the Menu"> 
 - Repeat this process with all of your design elements until you have successfully cut them out of the shape you created.
