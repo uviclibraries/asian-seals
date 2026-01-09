@@ -34,6 +34,4 @@ The initial stages of the activities if left as-is would result in a design that
 - Click File, then Save As… to save your file. Rename if desired.
 
 
-[NEXT STEP: Requesting a Laser Cut Seal with a 3D Printed Handle](request.html){: .btn .btn-blue }
-OR
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
