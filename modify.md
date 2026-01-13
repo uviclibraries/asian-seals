@@ -17,6 +17,7 @@ If you and your group have any questions or get stuck as you work through this e
 2. Clean up and/or Simplify artwork
 - If the trace has resulted in an image with far too many details and/or nodes, you can go to the top menu and **click on Path** and then **Simplify**. This will further smooth out the outline of your image. If this process gets rid of too many details, you can undo it. <img src="images/5.close_up_nodes.png" style="width:150px;float:right;" alt="close up of nodes">
 - You can alternatively clean up the excess nodes manually, which gives you more control over the process.
+- <img src="images/AsianSeals_EditingPathExample.gif">
 - Click on the **Edit Path by Nodes tool** in the left toolbar and then click on your artwork. You should see all the little nodes (small squares along the outlines) in your artwork.
 - **Click on the nodes** individually to select and then press the **Delete key** on your keyboard.
 - You can also **drag the mouse** to select several at a time and **Delete** them.  <img src="images/6.change.png" style="width:175px;float:right;" alt="close up of nodes with handles">
