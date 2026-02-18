@@ -68,5 +68,16 @@ If you and your group have any questions or get stuck as you work through this e
 - **Save** before continuing to make sure you don’t lose the progress in your work.
 - Click File, then Save As… to save your file. Rename if desired.
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Requesting a Laser Cut Seal with a 3D Printed Handle](request.html){: .btn .btn-blue }
