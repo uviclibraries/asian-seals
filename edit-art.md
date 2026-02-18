@@ -55,5 +55,16 @@ If you and your group have any questions or get stuck as you work through this e
 7. Save
  - Click File, then Save As… to save your file. Inkscape’s native file format is .svg which is suitable for laser cutting. 
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Modify your Vector File](modify.html){: .btn .btn-blue }
