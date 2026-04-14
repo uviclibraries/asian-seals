@@ -7,7 +7,7 @@ nav_order: 1
 # Lasting Impressions: East Asian Seal Art Across Time and Media 2
 <img src="images/17.seals_intro.jpg" style="float:right;width:250px;" alt="image of laser cut seals and printed seals in reed ink">
 - Pre-workshop activities: 15 min 
-- Introductory presentation: 10 min
+- Introductory presentation: 20 min
 - Hands-on activities: 40-60 min
 
 ## Why learn about seal art? 
