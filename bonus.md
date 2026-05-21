@@ -4,7 +4,7 @@ title: 6-Bonus- From White to Red
 nav_order: 8
 parent: Workshop Activities
 ---
-# Bonus: Change your design from a White to a Red design <img src="images/yinyang.png" style="width:250px;float:right;" alt="yin and yang seal examples">
+# Bonus: Change your design from a White to a Red design <img src="images/sealsredwhite.png" style="width:250px;float:right;" alt="yin and yang seal examples">
 
 The initial stages of the activities if left as-is would result in a design that is engraved out of the surface (White or also known as Yin) with the black part of the design burned away from the wood and the white part of the background left raised to be inked. This activity will teach you how you reverse the artwork so that the design itself will be left as a raised surface (Red or Yang) and the area around it will be burned away. If you and your group have any questions or get stuck as you work through this exercise, please ask the instructor for assistance.  Have fun!
 1. Open your design from the end of Activity 4
